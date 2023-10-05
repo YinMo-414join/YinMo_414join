@@ -5,5 +5,5 @@
 # 1.4
 [一个小人](https://github.com/YinMo-414join/YinMo_414join/blob/lll/picture6.jpg)
 
-# 选答题2.3（渲染图）
+# 选答题2.3 
 [速成作品]（https://github.com/YinMo-414join/YinMo_414join/blob/lll/%E5%9B%BE.jpg）
